@@ -14,7 +14,7 @@ bad_emails = ['justaname','space.in.name @example.org', 'missing@adomain','@nana
 bad_phone_numbers = ['wherearethenumbers','(123 123 1234', '123) 123 1234', '123 -123-1234','123-123-123','123-123-12345','123--123  1234', '']
 
 #print(texts)
-#print(phones)
+print(phones)
 #print(emails)
 
 combined_content = texts + phones + emails + bad_emails + bad_phone_numbers
