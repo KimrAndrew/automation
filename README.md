@@ -20,4 +20,6 @@ The purpose of this application is to comb through a text file and extract any P
 - Information should be stored in ascending order
 - No duplicate entries are allowed
 
+## Pull Requests
+
 PR: [https://github.com/KimrAndrew/automation/pull/1](https://github.com/KimrAndrew/automation/pull/1)
